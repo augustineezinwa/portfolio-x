@@ -1,2 +1,2 @@
 # portfolio-x
-Create your portfolios
+Create and personalize your portfolios
